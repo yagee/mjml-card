@@ -1,0 +1,3 @@
+# Test MJML component
+
+WIP
